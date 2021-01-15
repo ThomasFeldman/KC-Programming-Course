@@ -1,0 +1,21 @@
+1. Review the Introduction module and participate in the learning activities. 
+
+2. Set up your workstation for Visual Studio development.
+	The first part of that is to build a virtual machine.
+	Follow along with  the three videos in the Virtual Machine Videos section to build your virtual machine.
+	Reach out to your instructor if you have any problems.
+
+3. Install Visual Studio.
+	In the Installing and Using Visual Studio section, you will find a lab assignment Installing Visual Studio Lab.
+	Follow the instructions in the lab assignment.
+	After Visual Studio 2015 is installed, take a screen shot of the success screen, copy and paste it into the Microsoft Word lab document,
+	save the document and submit it as evidence of completing the lab.
+
+
+4. Then complete the Launching Visual Studio Lab which contains instructions for setting up your profile the first time you launch Visual Studio.  
+
+5. Additionally, in this lab, you will provide evidence of the version of Visual Studio you have installed.
+
+6. Watch the Submitting Assignments video to learn the preferred approach to taking screen shots, copying code, and submitting assignments for this class.
+
+7. Finally, the Chapter 2 reading assignment will familiarize you with some basic concepts.
