@@ -1,12 +1,14 @@
 ﻿using System;
+/*
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+*/
 
-namespace HowdyFolks
+namespace Salutation02
 {
-    class Program
+    class DisplayToConsole
     {
         static void Main(string[] args)
         {
