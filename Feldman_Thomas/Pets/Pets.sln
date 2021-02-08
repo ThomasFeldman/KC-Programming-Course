@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetInfo", "PetInfo\PetInfo.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListPets", "ListPets\ListPets.csproj", "{43A7D924-C69B-47B1-935D-D1B2C24C1503}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetType", "PetType\PetType.csproj", "{DBE54C56-5238-43CC-97C4-4101D850FEBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetNumbers", "PetNumbers\PetNumbers.csproj", "{2631B8B0-A4FC-438E-BF12-BF9B98630EDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{43A7D924-C69B-47B1-935D-D1B2C24C1503}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43A7D924-C69B-47B1-935D-D1B2C24C1503}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43A7D924-C69B-47B1-935D-D1B2C24C1503}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBE54C56-5238-43CC-97C4-4101D850FEBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE54C56-5238-43CC-97C4-4101D850FEBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE54C56-5238-43CC-97C4-4101D850FEBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE54C56-5238-43CC-97C4-4101D850FEBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2631B8B0-A4FC-438E-BF12-BF9B98630EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2631B8B0-A4FC-438E-BF12-BF9B98630EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2631B8B0-A4FC-438E-BF12-BF9B98630EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2631B8B0-A4FC-438E-BF12-BF9B98630EDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
